@@ -37,7 +37,9 @@
 let catDiv = document.getElementById("cat");
 
 catDiv.innerHTML = "This is the cat div";
-catDiv.style.backgroundColor = "red";
+catDiv.style.backgroundColor = "aquamarine";
 catDiv.style.color = "blue";
+catDiv.style.fontSize = "5rem";
+
 
 console.log("getElementById", catDiv);
